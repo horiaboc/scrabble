@@ -1,0 +1,22 @@
+body {
+  margin: auto;
+  text-align: center;
+}
+
+h3 {
+  font-family: fantasy;
+  font-size: xx-large;
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid green;
+  font-family: fantasy;
+  font-size: large;
+}
+
+#words {
+  font-family: fantasy;
+  font-size: large;
+  column-count: 8;
+}
